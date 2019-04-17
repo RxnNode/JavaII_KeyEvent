@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="JavaII_HandleEvent:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/JavaII_HandleEvent_jar</output-path>
-    <root id="archive" name="JavaII_HandleEvent.jar">
-      <element id="module-output" name="JavaII_HandleEvent" />
-    </root>
-  </artifact>
-</component>
